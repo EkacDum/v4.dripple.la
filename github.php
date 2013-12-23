@@ -1,1 +1,1 @@
-<?php exec('git pull git@github.com:EkacDum/v4.dripple.la.git master');?>
+<?php `git pull git@github.com:EkacDum/v4.dripple.la.git master`; ?>
