@@ -1,1 +1,0 @@
-<?php `git pull git@github.com:EkacDum/v4.dripple.la.git master`; ?>
